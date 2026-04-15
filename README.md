@@ -3,7 +3,7 @@
 Students should first follow the experiment guide to proceed with the project
 
 - [Experiment 10 Guide](https://github.com/cu-fs1#experiment-10)
-- 
+  
 # 10b: Next.js Fullstack Auth & Posts Application
 
 This project demonstrates a production-grade, full-stack application built with Next.js 16 (App Router), complete with secure HTTP-only cookie authentication, RESTful APIs, business logic services, and a comprehensive database schema.
